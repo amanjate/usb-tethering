@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @amanjate
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning bash scripting
-- 💞️ I’m looking to collaborate on Java, PHP and JavaScript projects.
-- 📫 How to reach me? I'll be around.
-
-<!---
-amanjate/amanjate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @amanjate.
+I'm interested in programming in Java, JavaScript, PHP and Python.
+I'm currently learning bash and I developed this project in order to consolidate my learning through your collaboration.
+It's a script that provides plug and play functionality for the USB tethering connection.
