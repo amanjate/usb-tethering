@@ -1,0 +1,10 @@
+[Unit]
+Description=USB Tethering Service
+After=graphical-session.target network.target
+
+[Service]
+Environment=DISPLAY=:0
+ExecStart=/usr/local/bin/usb-tethering.sh
+
+[Install]
+WantedBy=graphical-sesssion.target

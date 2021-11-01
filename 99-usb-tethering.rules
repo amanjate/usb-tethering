@@ -1,0 +1,1 @@
+ACTION=="bind", SUBSYSTEM=="usb", DRIVER=="rndis_host", RUN+="/usr/local/bin/start-usb-tethering.sh"
